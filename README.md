@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beriamegha8" alt="beriamegha8" /></a> </p>
 
-- 🔭 I’m currently working on [a Timetable Generator](https://github.com/beriamegha8/timetable-manager-backend)
+- 🔭 I’m currently working on [a Timetable Generator](https://github.com/MatricalDefunkt/timetable-manager)
 
 - 🌱 I’m currently learning **Web Dev with extensive frameworks**
 
