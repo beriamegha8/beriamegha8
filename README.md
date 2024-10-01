@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beriamegha8" alt="beriamegha8" /></a> </p>
 
+[![An image of @beriamegha8's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/beriamegha8)](https://holopin.io/@beriamegha8)
+
 - 🔭 I’m currently working on [a Timetable Generator](https://github.com/MatricalDefunkt/timetable-manager)
 
 - 🌱 I’m currently learning **Web Dev with extensive frameworks**
